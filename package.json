@@ -1,7 +1,7 @@
 {
   "name": "kaboom-util",
-  "version": "0.1.1",
-  "description": "🚀 Collection of components & plugins for Kaboom",
+  "version": "0.1.2",
+  "description": "Collection of components & plugins for Kaboom",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

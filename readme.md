@@ -29,4 +29,4 @@ import { blink } from "kaboom-util";
 
 # Components List
 
-* [blink()]() - Blink your objects
+* [blink()](https://github.com/marklovers/kaboom-cookbook/tree/main/components/blink) - Blink your objects
