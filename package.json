@@ -1,6 +1,6 @@
 {
   "name": "kaboom-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "🚀 Collection of components & plugins for Kaboom",
   "main": "src/index.js",
   "scripts": {
