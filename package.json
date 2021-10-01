@@ -1,0 +1,28 @@
+{
+  "name": "kaboom-util",
+  "version": "0.1.0",
+  "description": "🚀 Collection of components & plugins for Kaboom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marklovers/kaboom-util.git"
+  },
+  "keywords": [
+    "kaboom",
+    "kaboomjs",
+    "game",
+    "plugin",
+    "components",
+    "fun",
+    "util"
+  ],
+  "author": "Mark Lovers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklovers/kaboom-util/issues"
+  },
+  "homepage": "https://github.com/marklovers/kaboom-util#readme"
+}
