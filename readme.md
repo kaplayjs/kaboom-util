@@ -29,4 +29,8 @@ import { blink } from "kaboom-util";
 
 # Components List
 
-* [blink()](https://github.com/marklovers/kaboom-cookbook/tree/main/components/blink) - Blink your objects
+* [blink](https://github.com/marklovers/kaboom-cookbook/tree/main/components/blink) - Blink your objects
+
+# Plugins List
+
+* [newgrounds-boom](https://github.com/lajbel/newgrounds-boom) - Use [Newgrounds](https://newgrounds.com) functions for your game
