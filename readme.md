@@ -1,5 +1,9 @@
 # Kaboom Util 💥📦
 
+# ⚠️⚠️⚠️⚠️⚠️⚠️ ALERT ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+This package is deprecated, use [kaboom-extra](https://github.com/marklovers/kaboom-extra) instead.
+
 Kaboom Util is a npm package for have access to a lot of Kaboom comps and plugins, in only one package!
 
 **It is recommended to use this package with the latest version of kaboom, it is not guaranteed to work correctly in previous versions**
